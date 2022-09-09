@@ -50,7 +50,7 @@
 * Put in before the wash cycle with the clothes
 
 *Properties*
-`detergentAmount`
+    `detergentAmount`
 <br>
 
 **Dryer**
@@ -58,13 +58,13 @@
 * Requires some user input
 
 *Properties*
-`dryerTemp`
+    `dryerTemp`
 
 **Hangers**
 * Used to hang up shirts after they are dry
 
 *Properties*
-`hangerAmount`
+    `hangerAmount`
 <br>
 
 #### **FUNCTIONALITY**
