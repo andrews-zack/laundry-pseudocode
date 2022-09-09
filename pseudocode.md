@@ -1,6 +1,6 @@
-#PSEUDOCODE PROJECT
+# PSEUDOCODE PROJECT
 <br>
-###How to do Laundry
+### How to do Laundry
 <br>
 **About**
 - The modern task of laundry revolves around the use of a washing machine and a dryer.
@@ -8,8 +8,8 @@
 - After completion of the washing cycle, the clothes are then transferred to the dryer.
 - Once the dryer finishes, the user must hang up the shirts, fold pants/shorts, and bundle socks.
 <br>
-####**INIT**
-#####Declaring variables for the process
+#### **INIT**
+##### Declaring variables for the process
 <br>
 **Clothes**
 - The object that we are washing.
