@@ -20,6 +20,7 @@
 **Clothes**
 * The object that we are washing.
 * Can be shirts, pants/shorts, or socks.
+
 *Properties*
 * `clothesDryness`
 * `clothesColor`
@@ -30,6 +31,7 @@
 * Tool used to clean the clothes
 * Requires some user input
 * Water used determined by cycle size
+
 *Properties*
 * `cycleSize`
 <br>
@@ -38,6 +40,7 @@
 * Used during the washing cycle
 * Added by the washing maching
 * Is a different temperature depending on the color of the clothes being washed
+
 *Properties*
 * `waterAmount`
 * `waterTemperature`
@@ -46,6 +49,7 @@
 **Detergent**
 * The soap used by the washer to clean the clothes
 * Put in before the wash cycle with the clothes
+
 *Properties*
 * `detergentAmount`
 <br>
@@ -53,11 +57,13 @@
 **Dryer**
 * Tool used to dry the clean clothes
 * Requires some user input
+
 *Properties*
 * `dryerTemp`
 
 **Hangers**
 * Used to hang up shirts after they are dry
+
 *Properties*
 * `hangerAmount`
 <br>
