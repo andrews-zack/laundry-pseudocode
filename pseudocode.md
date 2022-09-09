@@ -100,7 +100,8 @@ function washCycle
 function transferClothes
     let waterAmount = how much water is in the washing machine
     IF (waterAmount === 0)
-        THEN take clothes from washing machine and place them in the dryer
+        THEN washingMachine.slice(clothes)
+             dryer.push(clothes)
 
 function dryCycle
     let dryerCycleSelect = preset options for different loads on the dryer
@@ -113,7 +114,7 @@ function dryCycle
 function dumpClothesOnBed
     let clothesDryness = how dry the clothes are
     if (clothesDryness === satisfactory)
-        THEN take clothes from dryer and move them to the bed
+        THEN dryer.slice(clothes) and move them to the bed
 
 function foldClothes
     let clothesType = whether it is a shirt, pants, or socks
