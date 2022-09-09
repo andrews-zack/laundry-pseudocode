@@ -1,6 +1,6 @@
 # PSEUDOCODE PROJECT
 <br>
-### How to do Laundry
+### How to do laundry
 <br>
 **About**
 - The modern task of laundry revolves around the use of a washing machine and a dryer.
