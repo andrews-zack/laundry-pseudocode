@@ -17,4 +17,5 @@
 *Properties*
 `clothesDryness`
 `clothesColor`
+`clothesType`
 
