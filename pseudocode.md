@@ -67,3 +67,21 @@
 `hangerAmount`
 <br>
 
+#### **FUNCTIONALITY**
+
+```
+function sortClothes() {
+    let clothing = [shirts, pants, socks]
+    let washingMachine = []
+    for (clothes of clothing)
+    if clothes.clothesColor !== white {
+        washingMachine.push(clothes)
+        else {
+            put back in hamper
+        }
+    }
+}
+
+
+
+```
